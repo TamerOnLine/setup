@@ -73,7 +73,7 @@ your-project/
 ```json
 {
   "project_name": "resume-manager",
-  "main_file": "serve-manager/start.py",
+  "main_file": "setup.py",
   "requirements_file": "requirements.txt",
   "venv_dir": "venv",
   "python_version": "3.12"
