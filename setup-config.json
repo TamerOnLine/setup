@@ -1,0 +1,7 @@
+{
+  "project_name": "UnnamedProject",
+  "main_file": "main.py",
+  "requirements_file": "requirements.txt",
+  "venv_dir": "venv",
+  "python_version": "3.12"
+}
